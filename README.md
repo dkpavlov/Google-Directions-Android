@@ -1,5 +1,7 @@
-Google-Directions-Android [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jd-alexander/google-directions-android/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Google-Directions-Android-With-Waypoints  
 =========================
+
+Add suport for waypoints
 
 This project allows you to  calculate the direction between two locations and display the route on a map based on the 
 classes created by Hesham Saeed in this [post](http://stackoverflow.com/questions/11745314/why-retrieving-google-directions-for-android-using-kml-data-is-not-working-anymo/11745316#11745316).
